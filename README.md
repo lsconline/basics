@@ -1,2 +1,2 @@
-# zakoapp
-Team Formation and Management
+# basicsapp
+Simple Business Management Tools
